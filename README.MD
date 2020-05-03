@@ -1,4 +1,4 @@
-# React Native Guess a number game
+# React Native Number Game
 
 - Code along React Native Tutorial for Beginners - Crash Course 2020 by Acedemind.
 - This app uses Expo and is based on functional components.
